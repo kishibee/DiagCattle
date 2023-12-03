@@ -1,7 +1,8 @@
-package com.example.cattlediag
+package com.example.cattlediag.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.cattlediag.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
